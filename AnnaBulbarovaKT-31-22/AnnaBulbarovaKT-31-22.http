@@ -1,0 +1,6 @@
+@AnnaBulbarovaKT_31_22_HostAddress = http://localhost:5012
+
+GET {{AnnaBulbarovaKT_31_22_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
